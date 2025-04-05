@@ -7,7 +7,7 @@
 
 ## 🌟 Features
 
-✅ Smooth WebView for Smart Learning  
+✅ Smooth WebView for Smart Learning
 ✅ Custom Splash Screen with Branding  
 ✅ Built with 💖 using Kodular  
 ✅ Designed for Android Devices  
